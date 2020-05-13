@@ -15,4 +15,4 @@ def engage(date)
   date = generate_star_date
 end
 
-engage(date)
+engage(3)
